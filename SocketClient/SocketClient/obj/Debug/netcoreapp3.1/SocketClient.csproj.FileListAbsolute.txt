@@ -1,0 +1,11 @@
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Kindman\Desktop\socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb

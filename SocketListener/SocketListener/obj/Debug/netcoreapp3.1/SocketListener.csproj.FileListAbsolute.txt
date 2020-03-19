@@ -1,0 +1,11 @@
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\bin\Debug\netcoreapp3.1\SocketListener.exe
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\bin\Debug\netcoreapp3.1\SocketListener.deps.json
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\bin\Debug\netcoreapp3.1\SocketListener.runtimeconfig.json
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\bin\Debug\netcoreapp3.1\SocketListener.runtimeconfig.dev.json
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\bin\Debug\netcoreapp3.1\SocketListener.dll
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\bin\Debug\netcoreapp3.1\SocketListener.pdb
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\obj\Debug\netcoreapp3.1\SocketListener.csprojAssemblyReference.cache
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\obj\Debug\netcoreapp3.1\SocketListener.AssemblyInfoInputs.cache
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\obj\Debug\netcoreapp3.1\SocketListener.AssemblyInfo.cs
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\obj\Debug\netcoreapp3.1\SocketListener.dll
+C:\Users\Kindman\Desktop\socket\SocketListener\SocketListener\obj\Debug\netcoreapp3.1\SocketListener.pdb
